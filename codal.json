@@ -1,0 +1,15 @@
+{
+  "target": {
+    "name": "codal-microbit-v2",
+    "url": "https://github.com/zhudanmeng/codal-microbitv2-new",
+    "branch": "main",
+    "type": "git",
+    "test_ignore": true,
+    "dev": true
+  },
+  "config": {
+    "NO_BLE": 1,
+    "MICROBIT_BLE_ENABLED": 0,
+    "MICROBIT_BLE_PAIRING_MODE": 0
+  }
+}
